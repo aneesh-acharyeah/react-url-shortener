@@ -105,8 +105,7 @@ function App() {
   );
 }
 
-// Styles (CSS-in-JS)
-const styles = {
+ const styles = {
   container: {
     maxWidth: 650,
     margin: '40px auto',
