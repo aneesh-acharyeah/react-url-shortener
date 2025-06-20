@@ -1,4 +1,4 @@
-# URL Shortener React App
+# 🔗 URL Shortener React App
 
 A simple, clean URL shortener web app built with React.  
 Enter a long URL to generate a short, mocked URL.  
